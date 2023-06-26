@@ -1,2 +1,2 @@
 # EDA-Zomato
-Exploratory data analysis of Zomato(Food delivery App) Dataset 
+Exploratory data analysis on Zomato(Food delivery App) Dataset 
